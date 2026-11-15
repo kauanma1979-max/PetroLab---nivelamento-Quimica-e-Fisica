@@ -1,0 +1,6 @@
+{
+  "name": "PetraLab — Nivelamento em Química e Física",
+  "description": "Plataforma inteligente de nivelamento progressivo em Química e Física para preparação em concursos da Petrobras e Transpetro (CESGRANRIO).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
